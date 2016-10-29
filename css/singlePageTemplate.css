@@ -80,8 +80,8 @@ a:active {
 /* Hero Section */
 
 .hero {
-    background-image: url("sprinkles.png");
     background-color: #F5F5DC;
+height: 100px;
     padding-top: 150px;
     padding-bottom: 150px;
 }
@@ -163,7 +163,7 @@ a:active {
 .banner {
     background-color: #556B2F;
     background-image: url(../images/parallax.png);
-    height: 350px;
+    height: 300px;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;

@@ -228,17 +228,7 @@ footer .footer_column p {
     margin-right: 20px;
     font-weight: bold;
 }
-.copyright {
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: #556B2F;
-    color: #FFFFFF;
-    text-transform: uppercase;
-    font-weight: lighter;
-    letter-spacing: 2px;
-    border-top-width: 2px;
-}
+
 .footer_banner {
     background-color: #556B2F;
     padding-top: 60px;

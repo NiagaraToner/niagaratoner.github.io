@@ -275,6 +275,7 @@ footer {
         display: none;
     }
     header nav ul {} nav ul li {
+        background-color: #556B2F;
         margin-top: 0px;
         margin-right: 0px;
         margin-bottom: 0px;
@@ -332,7 +333,7 @@ footer {
         line-height: 22px;
     }
     .hero_header {
-        background-color: #556B2F;
+        width: 100%;
         padding-left: 10px;
         padding-right: 10px;
         line-height: 22px;
